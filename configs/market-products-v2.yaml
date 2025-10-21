@@ -1,0 +1,19 @@
+path: C:\Users\wesll\OneDrive\Área de Trabalho\retail-vision\data\market-products-v2
+train: train/images
+val: validation/images
+nc: 13
+names:
+- arroz
+- bolacha_maizena
+- cafe
+- coca_cola
+- detergente
+- feijao
+- leite_ninho
+- nescau_ball
+- oleo
+- papel_higienico
+- sucrilhos
+- toddy
+- trigo
+test: test/images
